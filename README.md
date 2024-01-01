@@ -32,9 +32,9 @@ I'm Ferhan Gedik, a passionate developer and Scrum Master from Poland.
 
 ## 📫 Contact Me
 
-- LinkedIn: [Ferhan Gedik](https://www.linkedin.com/in/ferhangedik/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferhangedik/)
+- [![LinkedIn](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ferhangedik/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ferhangedik&color=blue)
 
 
 <!--
