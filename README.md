@@ -3,8 +3,8 @@
 I'm Ferhan Gedik, a passionate developer and Scrum Master from Poland.
 
 ## ⚜️ Badges
-<!--START_SECTION:badges-->
 
+<!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
 
 ## 🔧 Technologies & Tools
