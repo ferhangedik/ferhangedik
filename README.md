@@ -1,6 +1,9 @@
 # Hello, World! 👋
 
-I'm Ferhan Gedik, a passionate developer and Scrum Master from Poland.
+I'm Ferhan Gedik: 
+- 💻 I'm a passionate developer and Scrum Master from Poland.
+- 🤗 I'm open to all your questions and feedbacks.
+- 🎾 I'm a former professional tennis player.
 
 ## ⚜️ Badges
 
@@ -26,28 +29,8 @@ I'm Ferhan Gedik, a passionate developer and Scrum Master from Poland.
 
 - Golang
 
-## 🚀 My Projects
-
-- [My Awesome Project](https://github.com/john-doe/my-awesome-project)
-
 ## 📫 Contact Me
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferhangedik/)
-- [![LinkedIn](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ferhangedik/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferhangedik/)    [![LinkedIn](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ferhangedik/)
 
 
-
-<!--
-**ferhangedik/ferhangedik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
