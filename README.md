@@ -4,7 +4,7 @@ I'm Ferhan Gedik, a passionate developer and Scrum Master from Poland.
 
 ## ⚜️ Badges
 
-[![Certified SAFe® 6 Scrum Master](https://images.credly.com/size/340x340/images/441384f8-8b0a-4e7f-94bd-966496a10fd9/image.png)](https://www.credly.com/badges/c036cbcb-32d8-4005-81c8-c16a6c3126e1 "Certified SAFe® 6 Scrum Master")
+[![Certified SAFe® 6 Scrum Master](https://images.credly.com/size/110x110/images/441384f8-8b0a-4e7f-94bd-966496a10fd9/image.png)](https://www.credly.com/badges/c036cbcb-32d8-4005-81c8-c16a6c3126e1 "Certified SAFe® 6 Scrum Master")
 
 
 ## 🔧 Technologies & Tools
