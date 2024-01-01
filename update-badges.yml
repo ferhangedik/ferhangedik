@@ -12,4 +12,4 @@ jobs:
       - name: Badges - Readme
         uses: ferhangedik/badge-readme@main
         with:       
-          CREDLY_USER: <hayrettin-ferhan-gedik>
+          CREDLY_USER: hayrettin-ferhan-gedik
